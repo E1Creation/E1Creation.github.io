@@ -17,6 +17,7 @@ var serviceWorkerOption = {
     "/icons/icon-96x96.png",
     "/images/hero-image_4.jpg",
     "/images/nasi-goreng-mafia.jpg",
+    "/images/placeholder.png",
     "/index.html"
   ]
 };
