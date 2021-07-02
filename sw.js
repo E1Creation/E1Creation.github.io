@@ -1,9 +1,11 @@
 var serviceWorkerOption = {
   "assets": [
+    "/5d982326781d6f8ea98b7c2d8f958fc5.jpg",
+    "/3213acfb4f0ff00adf4ddf612ef9949d.jpg",
     "/0.bundle.js",
     "/1.bundle.js",
-    "/2.bundle.js",
     "/bundle.js",
+    "/3.bundle.js",
     "/4.bundle.js",
     "/favicon.png",
     "/manifest.json",
@@ -16,6 +18,7 @@ var serviceWorkerOption = {
     "/icons/icon-72x72.png",
     "/icons/icon-96x96.png",
     "/images/hero-image_4.jpg",
+    "/images/hero-image_4_small.jpg",
     "/images/nasi-goreng-mafia.jpg",
     "/images/placeholder.png",
     "/index.html"
